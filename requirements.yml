@@ -1,0 +1,8 @@
+---
+collections:
+  - name: fortinet.fortiflexvm
+    type: galaxy
+  - name: fortinet.fortios
+    version: 2.3.4
+    type: galaxy
+
